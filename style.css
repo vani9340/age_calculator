@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(35, 183, 246);
+}
+.main{
+    background-color: aliceblue;
+    margin-top: 30vh;
+    margin-left: 30vw;
+    height : 40vh;
+    width:40vw;
+    border-radius: 5%;
+}
+#heading{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 5vh;
+}
+#label{
+    margin-top: 10vh;
+    margin-left: 5vw;
+    font-size: 3vh;
+
+}
+
+#submit{
+background-color: rgb(35, 183, 246);
+color: black;
+height: 6vh;
+width: 6vw;
+margin-top: 30px;
+margin-left: 30px;
+border-radius: 5%;
+}
