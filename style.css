@@ -37,3 +37,12 @@ border-radius: 5%;
     background-color: grey;
     color: aliceblue;
 }
+#btn{
+    margin-top: 3vw;
+    margin-left: 15vw;
+}
+#result{
+    color: rgb(35, 183, 246);
+    margin-left: 7vw;
+    font-size: 3vh;
+}
